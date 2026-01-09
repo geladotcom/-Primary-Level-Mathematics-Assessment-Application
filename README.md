@@ -4,17 +4,26 @@ A simple and fun Python quiz game with cute cat reactions, sound effects, and mu
 
 Features:
 • Cat reacts (neutral, excited, sad)
+
 • 10 lives with heart icons
+
 • Sound effects
+
 • Hint system
+
 • Easy, Medium, Hard levels
+
 • Saves results to quiz_results.csv
+
 • Responsive UI (scales when resizing window)
 
 Tech Used: 
 • Python (Tkinter)
+
 • Pillow (image handling)
+
 • Pygame (sound effects)
+
 • JSON & CSV (data storage)
 
 How to Run:
