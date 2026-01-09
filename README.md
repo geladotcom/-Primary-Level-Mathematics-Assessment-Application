@@ -43,7 +43,11 @@ Sound files (correct.wav, wrong.wav, click.wav)
 Developers:
 
 Bingyo, Leiko T.
+
 Flores, Julius T.
+
 Peralta, Mary Angela C.
+
 Ravancho, Ron Cristofer H.
+
 Remegio, Gerald Matthew F. 
