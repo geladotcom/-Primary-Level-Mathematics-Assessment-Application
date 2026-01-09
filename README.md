@@ -18,7 +18,9 @@ Features:
 
 • Responsive UI (scales when resizing window)
 
+
 Tech Used: 
+
 • Python (Tkinter)
 
 • Pillow (image handling)
@@ -27,12 +29,14 @@ Tech Used:
 
 • JSON & CSV (data storage)
 
+
 How to Run:
 
 Install requirements:
 
 pip install pillow
 pip install pygame
+
 
 Run the app:
 
@@ -49,6 +53,7 @@ quiz_results.csv — auto-saved results
 Cat images & heart icons
 
 Sound files (correct.wav, wrong.wav, click.wav)
+
 
 Developers:
 
