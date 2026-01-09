@@ -3,6 +3,7 @@ Primary-Level Mathematics Assessment Application
 A simple and fun Python quiz game with cute cat reactions, sound effects, and multiple difficulty levels.
 
 Features:
+
 • Cat reacts (neutral, excited, sad)
 
 • 10 lives with heart icons
